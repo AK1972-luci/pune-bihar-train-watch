@@ -1,0 +1,50 @@
+# Cloud runner: one long job (~5.5 h) polls continuously, queues its successor at start,
+# and commits state every 20 min. Does not depend on GitHub's cron (which never fired
+# on this repo); the */30 schedule is only a backup to restart the chain if it breaks.
+name: special-train-watch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Queue the next run (stays pending until this one ends)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(date -u +%Y%m%d)" -lt 20261106 ]; then
+            gh workflow run watch.yml --ref main || true
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Watch continuously (~5.5 h), committing state every 20 min
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          WATCHER_NAME: github
+        run: |
+          chmod +x commit_state.sh
+          python special_train_watch.py --max-minutes 330 &
+          PID=$!
+          while kill -0 $PID 2>/dev/null; do
+            sleep 1200
+            kill -0 $PID 2>/dev/null && ./commit_state.sh || true
+          done
+          wait $PID
+      - name: Persist final state
+        if: always()
+        run: ./commit_state.sh || true

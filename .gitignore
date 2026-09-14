@@ -1,0 +1,4 @@
+watch.log
+*.tmp
+__pycache__/
+config.local.json
