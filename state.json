@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-14|2031-09-16|0010000|16.15",
+   "sig": "2026-09-15|2031-09-17|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-14|2031-09-16|1111111|21.05",
+   "sig": "2026-09-15|2031-09-17|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -63,7 +63,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2026-09-30|1111111|15.40",
@@ -76,7 +76,7 @@
    "name": "PUNE DNR SPECIAL"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-14|2031-09-15|0010000|10.00",
+   "sig": "2026-09-15|2031-09-16|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -88,10 +88,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-14|2031-09-16|0000010|15.25",
+   "sig": "2026-09-15|2031-09-17|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -103,10 +103,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-14|2031-09-16|0010000|16.15",
+   "sig": "2026-09-15|2031-09-17|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -118,10 +118,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-14|2031-09-15|0010000|10.00",
+   "sig": "2026-09-15|2031-09-16|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -133,10 +133,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-14|2031-09-15|0010000|10.00",
+   "sig": "2026-09-15|2031-09-16|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -148,7 +148,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "14-Sep-2026 17:35:01 IST"
+   "changed": "15-Sep-2026 09:50:43 IST"
   }
  },
  "press": {
@@ -828,7 +828,17 @@
   "93b78face4d3b185d64209d7ed0815ab": "Southern Command Military Nursing Service Officers Celebrate 98th Raising Day with Pride and Dedication - Pune Mirror",
   "e2997319977e5dc56082cde2d2cb6358": "Delhi to Bihar Summer Trains 2025: Check list, timings and stations - India Today",
   "650882a5cb6d960959b49b7dc4063ccd": "Indian Railways: Planning To Go Home For Diwali? See List Of Festival Special Trains Here - ABP Live English",
-  "0d387a57a75325af692262113c065df2": "Railways announce increase in frequency of Devlali-Muzaffarpur Kisan Rail to Tri-weekly - Punekar News"
+  "0d387a57a75325af692262113c065df2": "Railways announce increase in frequency of Devlali-Muzaffarpur Kisan Rail to Tri-weekly - Punekar News",
+  "e7102b2be8d66357af1b8d986e1ed36e": "186 Special Trains Announced for Holi 2026 By Central Railway - english.bombaysamachar.com",
+  "e98d863976bfdc5977724477ebdbb511": "Christmas, New Year and Winter Vacation Bonanza for Passengers by Central Railway - The Live Nagpur",
+  "31968424b6f099eccec6472aafd7e68d": "Deepika Padukone, Ranveer Singh Share First Photo of Daughter, Reveal Her Name: Dua Padukone Singh - PUNE PULSE",
+  "ddc77be93209fd84938a3c9940884143": "Central Railway restores second ghat line, Deccan Queen and Intercity services to resume from July 16 - The Times of Ind",
+  "5fadb8e10f9d2a1a3cba3159fe976e69": "Indian Railways: मुंबई से यूपी-बिहार के लिए रेलवे चला रहा कई स्पेशल ट्रेन, रिजर्वेशन शुरू - AajTak",
+  "e69b08dc1d7de7d10ba8e7dda2115457": "Special Train: अग्निपथ के चलते स्टेशनों पर फंसे लोगों के लिए पटना से चलीं ये दो स्पेशल ट्रेन - Navbharat Times",
+  "2199842c6e981a62860d286a6da7e17b": "भारतीय रेलवे: श्रमिकों का पलायन शुरू, मुंबई व पुणे से चलेंगी विशेष ट्रेनें - Amar Ujala",
+  "7e6d5c73630d4dd2495ada27bb7487f8": "अब दिवाली और छठ के टिकट की नहीं होगी दिक्कत, बिहार के इस शहर से महाराष्ट्र के लिए नई ट्रेन, यहां देखें रूट्स और किराया -",
+  "dfd00bab39a5a2520f8d6051da2ec275": "Pune to Patna Holi special train launched by the East Central Railway to tackle festival rush - The Times of India",
+  "e6c10bbdf059d92e8c1a9faa5cfc3484": "South Western Railway to operate special trains- Full list here - financialexpress.com"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -923,9 +933,11 @@
   "2310194": "केरलम की इकोसेंस छात्रवृत्तियां 46000 छात्रों को अपशिष्ट प्रबंधन में सशक्त बना रही हैं",
   "2310183": "शिक्षण से शोध उत्कृष्टता तक: एनएफएससी की सहायता से मिधिला राधाकृष्णन की शैक्षणिक यात्रा",
   "2310182": "डाक कर्मचारी संगठनों ने इंडिया पोस्ट को नए रूप में ‘रूपांतरित’ करने के लिए सरकार की सराहना करते हुए प्रधानमंत्री श्री नर",
-  "2310169": "भारत और मर्कोसुर ने इलेक्ट्रॉनिक मूल प्रमाणपत्र जारी करने की प्रक्रिया को सुगम बनाने के लिए प्रथम अतिरिक्त प्रोटोकॉल पर "
+  "2310169": "भारत और मर्कोसुर ने इलेक्ट्रॉनिक मूल प्रमाणपत्र जारी करने की प्रक्रिया को सुगम बनाने के लिए प्रथम अतिरिक्त प्रोटोकॉल पर ",
+  "2310301": "वैश्विक दक्षिण के एनएचआरआई के वरिष्ठ पदाधिकारियों के लिए विदेश मंत्रालय के सहयोग से आयोजित मानवाधिकारों पर भारत का पांचव",
+  "2310302": "प्रधानमंत्री ने केंद्रीय मंत्री पीयूष गोयल के आवास पर गणपति दर्शन के दौरान भगवान श्री गणेश की पूजा-अर्चना की"
  },
  "avail": {},
- "last_press_poll": 1789424843.7536814,
- "last_heartbeat": "2026-09-14"
+ "last_press_poll": 1789446903.7377422,
+ "last_heartbeat": "2026-09-15"
 }
