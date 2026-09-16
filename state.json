@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-15|2031-09-17|0010000|16.15",
+   "sig": "2026-09-16|2031-09-18|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-15|2031-09-17|1111111|21.05",
+   "sig": "2026-09-16|2031-09-18|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -63,7 +63,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2026-09-30|1111111|15.40",
@@ -76,7 +76,7 @@
    "name": "PUNE DNR SPECIAL"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-15|2031-09-16|0010000|10.00",
+   "sig": "2026-09-16|2031-09-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -88,10 +88,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-15|2031-09-17|0000010|15.25",
+   "sig": "2026-09-16|2031-09-18|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -103,10 +103,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-15|2031-09-17|0010000|16.15",
+   "sig": "2026-09-16|2031-09-18|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -118,10 +118,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-15|2031-09-16|0010000|10.00",
+   "sig": "2026-09-16|2031-09-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -133,10 +133,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-15|2031-09-16|0010000|10.00",
+   "sig": "2026-09-16|2031-09-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -148,7 +148,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Sep-2026 09:50:43 IST"
+   "changed": "16-Sep-2026 08:32:45 IST"
   }
  },
  "press": {
@@ -882,7 +882,15 @@
   "871ca19bf66748b99db29771273fed5a": "Vande Bharat Sleeper Express To Begin Services Before Diwali 2025 - Outlook Traveller",
   "0929a1811e3ca3f5eb453f41f0fbc79c": "Pune railway station to soon get safe selfie point - timesofindia.indiatimes.com",
   "96366c37d4f2b2c71e35c8889991ea39": "30 baggage trolleys at Pune railway station to take burden off coolies - timesofindia.indiatimes.com",
-  "5a27f202759bed9efe3ab22d5d018579": "Deccan Queen: Indian Railways first Mumbai-Pune deluxe train completes 92 years; will run with LHB coaches - financialex"
+  "5a27f202759bed9efe3ab22d5d018579": "Deccan Queen: Indian Railways first Mumbai-Pune deluxe train completes 92 years; will run with LHB coaches - financialex",
+  "2c22d589ce23e6440008fdde466f481a": "Special train between Pune and Patna starts - The Bridge Chronicle",
+  "d24e46699592d42f82312bd22406416c": "Special trains for Diwali, Chhath: Extra trains for THESE states by Central Railway - Check routes - ET Now",
+  "81b6880737454a613b9fa2b800af0915": "Indian Railways Announces Over 100 Special Trains For Durga Puja, Diwali And Chhath Puja - NDTV",
+  "6d418cdb970ac9f21fc1ee8103c85c5b": "Festival Special Trains: Railways To Operate Mumbai Services From Top UP Cities From Oct 21 Amid Diwali, Chhath Rush - T",
+  "bb7de72fdec09f4a70f6265aa362ead2": "Get set go: Festival special trains from Pune to Goa, Delhi - The Bridge Chronicle",
+  "8ca043eb5104e7c57856a73947570fb3": "Ahmednagar Railway Station renamed as 'Ahilyanagar' in tribute to Ahilyabai Holkar in Maharashtra - India TV News",
+  "1f4faf3b8e957c395651c7ab85f94c1d": "Bihar: 43,000 train tickets cancelled, Danapur division takes Rs 2.4 crore hit - The Times of India",
+  "1d4e85c441ef2e7f828323b7960a823e": "हरदा पहुंची पुणे-दानापुर एक्सप्रेस, फिर हुआ कुछ ऐसा, गार्ड ने रोकी ट्रेन, भागने लगे पैसेंजर - News18 Hindi"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -1015,6 +1023,6 @@
   "2310695": "आरएसएस की सेवा की सदी भारत की सेवा परंपरा को दर्शाती है: उपराष्ट्रपति सी. पी. राधाकृष्णन"
  },
  "avail": {},
- "last_press_poll": 1789506334.801336,
+ "last_press_poll": 1789528623.5940568,
  "last_heartbeat": "2026-09-15"
 }
