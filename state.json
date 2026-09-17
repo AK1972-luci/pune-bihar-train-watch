@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-16|2031-09-18|0010000|16.15",
+   "sig": "2026-09-17|2031-09-19|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-16|2031-09-18|1111111|21.05",
+   "sig": "2026-09-17|2031-09-19|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -63,7 +63,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2026-09-30|1111111|15.40",
@@ -76,7 +76,7 @@
    "name": "PUNE DNR SPECIAL"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-16|2031-09-17|0010000|10.00",
+   "sig": "2026-09-17|2031-09-18|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -88,10 +88,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-16|2031-09-18|0000010|15.25",
+   "sig": "2026-09-17|2031-09-19|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -103,10 +103,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-16|2031-09-18|0010000|16.15",
+   "sig": "2026-09-17|2031-09-19|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -118,10 +118,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-16|2031-09-17|0010000|10.00",
+   "sig": "2026-09-17|2031-09-18|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -133,10 +133,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-16|2031-09-17|0010000|10.00",
+   "sig": "2026-09-17|2031-09-18|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -148,7 +148,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "16-Sep-2026 08:32:45 IST"
+   "changed": "17-Sep-2026 07:14:50 IST"
   }
  },
  "press": {
@@ -931,7 +931,8 @@
   "39ab5f12ca45fe4f639227494c765184": "कंफर्म टिकट नहीं मिल रहा तो इन ट्रेनों में जरूर चेक करें सीट अवेलेबिलिटी - etvbharat.com",
   "98b59c6bc56507317c3631ec69891115": "Amrit Bharat: बिहार को मिलेंगी 2 नई अमृत भारत ट्रेनें, रेलवे ने जारी किया रूट चार्ट और टाइम टेबल - Jagran",
   "c664f02ca49b186a9dbfd6147128592c": "Indian Railways: रेलवे ने मुंबई से बिहार के बीच चलने वाली 10 ट्रेनों के समय को बढ़ाया, देखें लिस्ट - AajTak",
-  "4aa1f8723b85944192c897502ac91d17": "Railways to run 1410 additional special trains for Holi 2026 festival. - Lokshahi English News"
+  "4aa1f8723b85944192c897502ac91d17": "Railways to run 1410 additional special trains for Holi 2026 festival. - Lokshahi English News",
+  "ba3588fb1f25aab0d6d3a50bb3a5b5af": "अहमदाबाद-बरौनी रद्द, ज्ञान गंगा का रूट डायवर्ट - Prabhat Khabar"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -1109,6 +1110,6 @@
   "2311175": "देश में स्वच्छता ही सेवा 2026 अभियान की तैयारियां तेज"
  },
  "avail": {},
- "last_press_poll": 1789588332.608407,
+ "last_press_poll": 1789610361.3825417,
  "last_heartbeat": "2026-09-16"
 }
