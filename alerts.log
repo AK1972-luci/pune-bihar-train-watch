@@ -81,3 +81,51 @@ Booking info: not stated
 Excerpt: …मुजफ्फरपुर से पुणे के बीच चलने वाली स्पेशल ट्रेन की अवधि बढ़ी, दिवाली छठ पर यात्रियों को बड़ी राहत - Jagran…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 18-Sep-2026 18:13:57 IST
+
+===== 18-Sep-2026 21:27:40 IST [urgent] 🚨 NEW SPECIAL: 05590 HDP MFP SPECIAL → PPTA on your TARGET date =====
+🚆 HDP MFP SPECIAL (05590)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 15:00
+Alights at: Patliputra (PPTA) arr 00:40 (journey 33:40 h)
+Pune departure dates matching you: Thu 01 Oct, Thu 08 Oct, Thu 15 Oct, Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-06-18 to 2050-01-03
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 5010,2255,2690,0,2255,2255 | 3145,1315,1570,0,1315,1840 | 2275,900,1070,0,900,1320
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 18-Sep-2026 21:27:40 IST
+
+===== 18-Sep-2026 21:27:41 IST [urgent] 🚨 NEW SPECIAL: 05590 HDP MFP SPECIAL → MFP on your TARGET date =====
+🚆 HDP MFP SPECIAL (05590)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 15:00
+Alights at: Muzaffarpur Jn (MFP) arr 04:30 (journey 37:30 h)
+Pune departure dates matching you: Thu 01 Oct, Thu 08 Oct, Thu 15 Oct, Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-06-18 to 2050-01-03
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 5150,2320,2770,0,2320,2320 | 3230,1355,1615,25,1355,1595 | 2330,925,1100,15,925,1145
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 18-Sep-2026 21:27:41 IST
+
+===== 18-Sep-2026 21:27:41 IST [urgent] 🚨 NEW SPECIAL: 05590 HDP MFP SPECIAL → DNR on your TARGET date =====
+🚆 HDP MFP SPECIAL (05590)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 15:00
+Alights at: Danapur (DNR) arr 00:15 (journey 33:15 h)
+Pune departure dates matching you: Thu 01 Oct, Thu 08 Oct, Thu 15 Oct, Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-06-18 to 2050-01-03
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 5010,2255,2690,0,2255,2255 | 3145,1315,1570,0,1315,1840 | 2275,900,1070,0,900,1320
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 18-Sep-2026 21:27:41 IST
