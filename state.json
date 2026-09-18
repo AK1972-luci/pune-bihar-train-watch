@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-17|2031-09-19|0010000|16.15",
+   "sig": "2026-09-18|2031-09-20|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-17|2031-09-19|1111111|21.05",
+   "sig": "2026-09-18|2031-09-20|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -63,7 +63,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2026-09-30|1111111|15.40",
@@ -76,7 +76,7 @@
    "name": "PUNE DNR SPECIAL"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-17|2031-09-18|0010000|10.00",
+   "sig": "2026-09-18|2031-09-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -88,10 +88,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-17|2031-09-19|0000010|15.25",
+   "sig": "2026-09-18|2031-09-20|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -103,10 +103,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-17|2031-09-19|0010000|16.15",
+   "sig": "2026-09-18|2031-09-20|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -118,10 +118,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-17|2031-09-18|0010000|10.00",
+   "sig": "2026-09-18|2031-09-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -133,10 +133,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-17|2031-09-18|0010000|10.00",
+   "sig": "2026-09-18|2031-09-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -148,7 +148,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Sep-2026 07:14:50 IST"
+   "changed": "18-Sep-2026 06:08:01 IST"
   }
  },
  "press": {
@@ -946,7 +946,13 @@
   "3d12a94f7d3d706b5ff0acbfb3bf7993": "Pune-Amravati, Pune-Solapur and Pune-Kanyakumari Express Timings Revised From September 22 - Punekar News",
   "35302c6557c59bd8864fc910d4e37cbc": "Pune: Hadapsar–Muzaffarpur Special Train Extended Till November - Punekar News",
   "489f5e564cf579aaed14cc9c345a63d4": "Ganeshotsav 2026: Bhausaheb Rangari Ganpati Trust to Distribute 11,000 Spectacles Free in Pune - Punekar News",
-  "8e9d481310a831928280c01b3728633d": "UP: दो अप्रैल से 13 ट्रेनें नहीं आएंगी लखनऊ, 13 मई तक कानपुर रूट की ट्रेनों का संचालन रहेगा बाधित; जानें वजह - Amar Ujal"
+  "8e9d481310a831928280c01b3728633d": "UP: दो अप्रैल से 13 ट्रेनें नहीं आएंगी लखनऊ, 13 मई तक कानपुर रूट की ट्रेनों का संचालन रहेगा बाधित; जानें वजह - Amar Ujal",
+  "95a78992624337bf07ed9009b6801675": "ECoR extends services of special trains till March last week - The Economic Times",
+  "163c68e06b85c96ab82619178460604d": "Rani Kamlapati–Rewa Puja Special Train To Run 8 Trips | Check Dates & Stops - Free Press Journal",
+  "b60e69d1b8366f93e9361efb03bad156": "Pune railway works: 67 trains cancelled or diverted for 15 days from Sept 19 - The Times of India",
+  "1a513f7bb03cd962897a30153ec5833c": "Central Railway Announces 90 Holi Special Trains, Check Details Here - India.com",
+  "05c5a1204b1e779cba1e9ef331f3a3b6": "Azad Hind Express may not run every day soon - The Times of India",
+  "b444183cb262899e630eceb6844024c7": "Darbhanga-Delhi-Amritsar Rail Passengers Alert: 13 Trains to Run on Diverted Routes, 3 Cancelled - Patna Press"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -1180,6 +1186,6 @@
   "2311745": "प्रधानमंत्री ने जन्मदिवस की शुभकामनाओं के लिए श्री एम. वेंकैया नायडू जी का आभार व्यक्त किया"
  },
  "avail": {},
- "last_press_poll": 1789670068.8342593,
+ "last_press_poll": 1789692106.3663418,
  "last_heartbeat": "2026-09-17"
 }
