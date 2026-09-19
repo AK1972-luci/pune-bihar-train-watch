@@ -129,3 +129,8 @@ Book: https://www.irctc.co.in/nget/train-search
 Check: https://erail.in/trains-between-stations/HDP-to-DNR
 Source: erail.in schedule feed (IR data)
 Detected: 18-Sep-2026 21:27:41 IST
+
+===== 19-Sep-2026 09:01:29 IST [low] Special-train watcher alive ✅ (github) =====
+Still watching Pune → PNBE/MFP/DNR for 2026-10-01 to 2026-11-05.
+Specials currently listed from Pune: 01449 PUNE DNR SPECIAL dates=['2026-09-29', '2026-09-30']; 05590 HDP MFP SPECIAL dates=['2026-10-01', '2026-10-08', '2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 05590 HDP MFP SPECIAL dates=['2026-10-01', '2026-10-08', '2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 05590 HDP MFP SPECIAL dates=['2026-10-01', '2026-10-08', '2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']
+Sources OK as of 19-Sep-2026 09:01:29 IST
