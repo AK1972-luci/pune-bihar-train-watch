@@ -1143,7 +1143,21 @@
   "12efbf26f435ae96ec59048288e3d78e": "Stone pelted on India’s first hydrogen train? Indian Railways responds to viral video - indianexpress.com",
   "fd4df5ff212453564fb3274048aa06c0": "BRICS Summit 2026: Rajdhani, Vande Bharat among 120 trains to be affected over Delhi Division - The Indian Express",
   "1eb3e16272280f5b448b2cac392bee37": "Diwali and Chhath preparations: Special trains for 10 states; passengers at 30 MP stations to benefit direc... - Bhaskar",
-  "9f1e788923781fd97f18ca7f955688e6": "School assembly news headlines today- September 21: Top national, sports and world news curated for you - India Today"
+  "9f1e788923781fd97f18ca7f955688e6": "School assembly news headlines today- September 21: Top national, sports and world news curated for you - India Today",
+  "c6ea483ebf9493a14649ef3968ca68c2": "Central Railway Extends Hadapsar-Muzaffarpur Special Train Services - Pune Mirror",
+  "860ad40e8ef57e3dbdc0e34a98bf4806": "Pune: Hadapsar-Muzaffarpur Special Train Gets 20 Extra Trips; New Tracks Planned Towards Solapur - Free Press Journal",
+  "6684f6ef833515b758c2da5848e01b94": "Maharashtra Petrol-Diesel Rates Today: Check Fuel Prices In Pune, Mumbai And Other Cities - Pune Mirror",
+  "018fab685ba5d8882e3018011729bf07": "Unpaid Workers Knock on Doors; Around 50 Sanitation Workers in Kothrud- Bavdhan Await their Wages for August - Pune Mirr",
+  "fee5d937e0734652e71d3e3f0aa0c8c7": "Wagholi Traffic Diversions on Tuesday for Ninth-Day Ganesh Immersion - Pune Mirror",
+  "3e2ab578a3f1e747ff100283a2f24fe6": "Udhna-Pune Train Proposal: Khandesh Connectivity May Get Major Boost - Pune Mirror",
+  "f9d99928ff1ed5b2321e975b52714db5": "Pune Builder Booked Over Alleged ₹35 Lakh Fraud In Kharadi House Deal - Pune Mirror",
+  "8f80334a758a7b6f2231905c079c7c40": "Pune Influencer Made To Do Sit-Ups After Remarks Against Raj Thackeray - Pune Mirror",
+  "6dbf66e1d7eebffb0858643bb335173d": "Pune Weather Forecast: Light Rain Likely As Temperatures Dip Slightly - Pune Mirror",
+  "0c6a913d74b4f73a05db1ccf9ea90301": "Pune Ganesh Visarjan: DJ Noise Hits 109 Decibels On Sinhagad Road - Pune Mirror",
+  "88f87f3d34e41a72b7b35e5b11b26b4c": "Pimpri Chinchwad Police Trace 30 Bangladeshi Nationals, 26 Deported - Pune Mirror",
+  "d6caccb73624d68f53da09644d40efc4": "Maharashtra Weather Alert: Heavy Rain In 19 Districts, Mumbai On Orange Alert From Sept 27 | Check IMD Forecast - The Da",
+  "2ae02059fb49d8f2a584debffeacd28d": "Railways to run over 1,000 special train trips for festive season - newstodaynet.com",
+  "da01f9e64f3e5ed4b02216059cffafed": "Shaktipeeth Highway: 6,200 Hectares Land Acquisition in Pune Division - Pune Mirror"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -1498,9 +1512,15 @@
   "2312764": "केन्द्रीय प्रशासनिक न्यायाधिकरण (कैट) की जम्मू बेंच द्वारा सेवा से जुड़े मामलों का निपटारा देश में सबसे अधिक: डॉ. जितेंद्",
   "2312762": "केन्द्रीय मंत्री श्री राजीव रंजन सिंह और पश्चिम बंगाल के माननीय मुख्यमंत्री श्री सुवेंदु अधिकारी ने पश्चिम बंगाल में मत्",
   "2312769": "भारत की राष्ट्रपति ने नई दिल्ली में एनजीटी के अंतर्राष्ट्रीय सम्मेलन 'पर्यावरण और जलवायु गतिशीलता का भविष्य' के समापन सत",
-  "2312781": "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरस"
+  "2312781": "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरस",
+  "2312889": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह 22 सितंबर, 2026 को नई दिल्ली में राज्यों/केंद्रशासित प्रदेशों के ANTF प्",
+  "2312875": "भारतीय नौसेना के जहाज सह्याद्री और कुलिश, एडीएसएस-प्‍लस जेसीए के लिए फिलीपींस के सुबिक खाड़ी पहुंचे",
+  "2312878": "प्रधानमंत्री ने धर्म, ज्ञान और अहिंसा के गुणों को दर्शाने वाला संस्कृत सुभाषितम् साझा किया",
+  "2312808": "राष्ट्रीय संकल्प समारोह में देशभर के 1,000 से अधिक स्थानों पर 4 लाख से अधिक युवाओं ने भाग लिया",
+  "2312807": "आईआईसीए ने ‘आईबीसी: संशोधनों के ज़रिए विकसित होता कानून’ विषय पर एक महत्वपूर्ण सत्र आयोजित किया",
+  "2312809": "आईआईसीए के ‘मीट द लीजेंड’ कार्यक्रम में ‘पीएमएलए–आईबीसी अंतरसंबंध’ पर चर्चा"
  },
  "avail": {},
- "last_press_poll": 1789956269.3705912,
- "last_heartbeat": "2026-09-20"
+ "last_press_poll": 1789978217.6311202,
+ "last_heartbeat": "2026-09-21"
 }
