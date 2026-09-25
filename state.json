@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-24|2031-09-26|0010000|16.15",
+   "sig": "2026-09-25|2031-09-27|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-24|2031-09-26|1111111|21.05",
+   "sig": "2026-09-25|2031-09-27|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -63,7 +63,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -115,7 +115,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-24|2031-09-25|0010000|10.00",
+   "sig": "2026-09-25|2031-09-26|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -127,10 +127,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-24|2031-09-26|0000010|15.25",
+   "sig": "2026-09-25|2031-09-27|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -142,10 +142,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-24|2031-09-26|0010000|16.15",
+   "sig": "2026-09-25|2031-09-27|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -157,10 +157,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-24|2031-09-25|0010000|10.00",
+   "sig": "2026-09-25|2031-09-26|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -172,10 +172,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-24|2031-09-25|0010000|10.00",
+   "sig": "2026-09-25|2031-09-26|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -187,7 +187,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "24-Sep-2026 09:31:42 IST"
+   "changed": "25-Sep-2026 08:28:10 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -1300,7 +1300,12 @@
   "013f434a7f87591148e3833f9f357abc": "To prevent crowding, price of platform ticket hiked to Rs 30 at Pune railway station - indianexpress.com",
   "9806751f32ce2ce0aa4b395b0e5ceeab": "Central Railway enforces multiple night blocks for infrastructure work on Panvel–Kalamboli, Nilje–Dativali routes, train",
   "110af09b75760d2efb58643f70c36582": "Chandauli News: छह घंटे तक देरी से आईं ट्रेनें, यात्री परेशान - Amar Ujala",
-  "c942f00065747014e0c30f4977f92204": "Central Railway ran fewer local trains between Pune and Lonavala despite rising demand - The Indian Express"
+  "c942f00065747014e0c30f4977f92204": "Central Railway ran fewer local trains between Pune and Lonavala despite rising demand - The Indian Express",
+  "8060bf1d14b6a1d32eb63f345dd127ac": "Itwari–Shalimar Summer Special Train Timing Revised from April 2 - english.dainikjagranmpcg.com",
+  "91bcf14ff310f183b9ffc08f22c38822": "Diwali Chhath Puja Special Train: दिवाली और छठ पर आना है बिहार तो देख लें ये 5 जोड़ी स्पेशल ट्रेन, जानें - ABP News",
+  "9a7d756fd637c01dd0ccb9aed9fbbef3": "chhath puja 2023 Bihar news Special train from Motihari - Prabhat Khabar",
+  "36eb7456466aeb23703ec1d3a2212521": "दानापुर मंडल से 9 होली स्पेशल ट्रेन चलेंगी: दिल्ली-पुणे-बैंग्लोर तक जाएगी, सुरक्षा व्यवस्था के लिए प्रशासन ... - Dainik ",
+  "bd46cd66f6a3209207e9f80a9003dbb5": "खुशखबरी ! छठ में चलेगी 40 स्पेशल ट्रेन, फटाफट करा लें रिजर्वेशन, देखें लिस्ट - ETV Bharat"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -1832,6 +1837,6 @@
   "2314653": "SAIL की 54वीं एजीएम आज आयोजित, वैल्यू ऐडेड स्टील में भारी बढ़ोत्तरी, राष्ट्र निर्माण से जुड़े मेजर उत्पाद आपूर्ति पर दिया "
  },
  "avail": {},
- "last_press_poll": 1790282579.187188,
+ "last_press_poll": 1790305972.911884,
  "last_heartbeat": "2026-09-24"
 }
