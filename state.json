@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-09-29|2031-10-01|0010000|16.15",
+   "sig": "2026-09-30|2031-10-02|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -14,10 +14,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-09-29|2031-10-01|1111111|21.05",
+   "sig": "2026-09-30|2031-10-02|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-01",
@@ -56,14 +56,13 @@
     "2026-11-03",
     "2026-11-04",
     "2026-11-05",
-    "2026-09-29",
     "2026-09-30",
     "2026-11-06",
     "2026-11-07"
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -115,7 +114,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-09-29|2031-09-30|0010000|10.00",
+   "sig": "2026-09-30|2031-10-01|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -127,10 +126,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-09-29|2031-10-01|0000010|15.25",
+   "sig": "2026-09-30|2031-10-02|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -142,10 +141,10 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-09-29|2031-10-01|0010000|16.15",
+   "sig": "2026-09-30|2031-10-02|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -157,10 +156,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-09-29|2031-09-30|0010000|10.00",
+   "sig": "2026-09-30|2031-10-01|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -172,10 +171,10 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-09-29|2031-09-30|0010000|10.00",
+   "sig": "2026-09-30|2031-10-01|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -187,7 +186,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "29-Sep-2026 06:31:43 IST"
+   "changed": "30-Sep-2026 06:40:41 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -1416,7 +1415,8 @@
   "3412e03952442ddcacda77a60f97fe62": "Pune: Central Railway To Run 216 Festival Special Train Trips For Diwali And Chhath Pooja - PUNE PULSE",
   "6f991bc261ab8d0dee23f49d03b52d4c": "Train Travel: Once Again Second Reservation Chart Will Be Released To Show Vacant Berths - Punekar News",
   "efd7c3cd8566223bb7d5b24f38d5fac5": "Festival Special Trains 2026: दिवाली और छठ पूजा पर घर जाना हुआ आसान, सेंट्रल रेलवे मुंबई से चलाएगा 418 स्पेशल - LatestLY",
-  "f4d2227e5d52ba8d4bceb89777f47084": "होली पर घर आना-जाना होगा आसान, मुंबई-पुणे से बिहार के लिए 5 जोड़ी स्पेशल ट्रेनें, पढ़ें पूरी डिटेल - Hindustan"
+  "f4d2227e5d52ba8d4bceb89777f47084": "होली पर घर आना-जाना होगा आसान, मुंबई-पुणे से बिहार के लिए 5 जोड़ी स्पेशल ट्रेनें, पढ़ें पूरी डिटेल - Hindustan",
+  "e1abcf8d2596adbb5d9dcd764fe39af3": "Chhath Puja Special Train 2022: Railway To Run Additional Festival Special Trains Between Mumbai/Pune And Danapur - Pune"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -2165,6 +2165,6 @@
   "2316697": "वस्त्र मंत्रालय और इसके संगठनों ने स्वच्छता ही सेवा 2026 के अंतर्गत विभिन्न स्वच्छता एवं जागरूकता गतिविधियों का संचालन क"
  },
  "avail": {},
- "last_press_poll": 1790730237.5701642,
+ "last_press_poll": 1790731554.055848,
  "last_heartbeat": "2026-09-29"
 }
