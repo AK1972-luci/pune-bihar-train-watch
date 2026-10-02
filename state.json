@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-10-01|2031-10-03|0010000|16.15",
+   "sig": "2026-10-02|2031-10-04|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -13,13 +13,12 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:29:57 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-10-01|2031-10-03|1111111|21.05",
+   "sig": "2026-10-02|2031-10-04|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-01",
     "2026-10-02",
     "2026-10-03",
     "2026-10-04",
@@ -60,7 +59,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:29:57 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -112,7 +111,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-10-01|2031-10-02|0010000|10.00",
+   "sig": "2026-10-02|2031-10-03|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -123,10 +122,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:33:37 IST",
+   "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-10-01|2031-10-03|0000010|15.25",
+   "sig": "2026-10-02|2031-10-04|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-03",
@@ -138,10 +138,11 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:33:37 IST",
+   "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-10-01|2031-10-03|0010000|16.15",
+   "sig": "2026-10-02|2031-10-04|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -152,10 +153,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-10-01|2031-10-02|0010000|10.00",
+   "sig": "2026-10-02|2031-10-03|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -166,10 +167,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:33:37 IST",
+   "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-10-01|2031-10-02|0010000|10.00",
+   "sig": "2026-10-02|2031-10-03|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -180,7 +182,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "01-Oct-2026 03:40:37 IST"
+   "changed": "02-Oct-2026 06:29:57 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -194,7 +196,8 @@
     "2026-11-05"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPECIAL"
+   "name": "HDP MFP SPECIAL",
+   "gone": "02-Oct-2026 06:29:57 IST"
   },
   "05590|HDP|MFP": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -1445,7 +1448,13 @@
   "64b9324c73ef0d08fc4b5105fd9c3707": "Railway News : यात्री सुविधाओं में विस्तार, रेलवे ने बढ़ाए कई स्पेशल ट्रेनों के फेरे , देखें लिस्ट - The Sootr",
   "edb4f0705e05992a834de27a75c3e17a": "मुजफ्फरपुर-पुणे एक्सप्रेस में ''जुगाड़'' बिजली व्यवस्था, यात्रियों की जान जोखिम में - Prabhat Khabar",
   "8954a71a2a099ba6c9eb9f28721c4e7f": "From October 1, One Ticket Needs One Original ID: Central Railway's October Drive - travelandleisureasia.com",
-  "7d63cfdf6b658343f7b9f5d3c9dc653a": "Automated block signalling system on Pune-Lonavla railway section by Nov - The Times of India"
+  "7d63cfdf6b658343f7b9f5d3c9dc653a": "Automated block signalling system on Pune-Lonavla railway section by Nov - The Times of India",
+  "37b19f363dff9c88fc8c3f9da0bcc7cd": "Special trains via Pune: Stunning boost for Kolhapur, Nanded, Amravati travellers - Pune Mirror",
+  "9bdeeafca99fc8c7ace413a5b3be29e0": "Chandauli News: सिलचर-नई दिल्ली पूर्वाेत्तर संपर्क क्रांति एक्सप्रेस 12 घंटे आई लेट - Amar Ujala",
+  "cc66c413f19943c988a4546d1255a1fe": "दीवाली-छठ पर रेलवे का बड़ा तोहफा: अब तक 580 स्पेशल ट्रेनों का ऐलान, यूपी-बिहार के लिए और ट्रेनों की घोषणा - navbharatliv",
+  "74d8adc516794de9ad7afc9f267865ac": "‘Clean my coach’ SMS service in train a hit in Pune Division - The Indian Express",
+  "987aa2482c4af512e76150a6dc4d76ab": "Good News : Special trains will run from Pune-Danapur for Diwali and Chhath festival - PUNE PULSE",
+  "8aa7e61753a52de97d8206b63716f6b2": "Indian Railways Pune-CSMT Pragati Express gets swanky new look under Project Utkrisht; New features and pics - financial"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -2313,6 +2322,6 @@
   "2318007": "केन्द्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने संयुक्त राज्य अमेरिका के मिल्वौकी में आयोजित जी20 व्यापार मंत्रिय"
  },
  "avail": {},
- "last_press_poll": 1790881640.0163727,
+ "last_press_poll": 1790903684.6084354,
  "last_heartbeat": "2026-10-01"
 }
