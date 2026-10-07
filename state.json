@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-10-06|2031-10-08|0010000|16.15",
+   "sig": "2026-10-07|2031-10-09|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -13,13 +13,12 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "06-Oct-2026 06:36:09 IST"
+   "changed": "07-Oct-2026 11:22:09 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-10-06|2031-10-08|1111111|21.05",
+   "sig": "2026-10-07|2031-10-09|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-06",
     "2026-10-07",
     "2026-10-08",
     "2026-10-09",
@@ -55,7 +54,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "06-Oct-2026 06:36:09 IST"
+   "changed": "07-Oct-2026 11:22:09 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -107,7 +106,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-10-06|2031-10-07|0010000|10.00",
+   "sig": "2026-10-07|2031-10-08|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -118,11 +117,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "06-Oct-2026 06:36:09 IST",
+   "changed": "07-Oct-2026 11:22:09 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-10-06|2031-10-08|0000010|15.25",
+   "sig": "2026-10-07|2031-10-09|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-10",
@@ -133,11 +132,11 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "06-Oct-2026 06:36:09 IST",
+   "changed": "07-Oct-2026 11:22:09 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-10-06|2031-10-08|0010000|16.15",
+   "sig": "2026-10-07|2031-10-09|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -148,10 +147,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "06-Oct-2026 06:36:09 IST"
+   "changed": "07-Oct-2026 11:22:09 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-10-06|2031-10-07|0010000|10.00",
+   "sig": "2026-10-07|2031-10-08|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -162,11 +161,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "06-Oct-2026 06:36:09 IST",
+   "changed": "07-Oct-2026 11:22:09 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-10-06|2031-10-07|0010000|10.00",
+   "sig": "2026-10-07|2031-10-08|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-07",
@@ -177,7 +176,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "06-Oct-2026 06:36:09 IST"
+   "changed": "07-Oct-2026 11:22:09 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -1517,7 +1516,9 @@
   "d1c6acab6b80a03ef7f42880a1e41afb": "Central Railway to Operate 966 Festival Special Train Trips from Pune Division: See the Complete List - The Bridge Chron",
   "1952260e753844bd4823b0227a0d7bf7": "Attention! Railway To Run Additional AC Special Trains Between Pune And Danapur - Free Press Journal",
   "2ea5c54f2fb599d050aec769c9dce4e5": "Central Railway Extends Periodicity of Special Trains To Manage Passenger Rush; Check Details - Free Press Journal",
-  "d42ad1c5f9df10f5f39cf7e147ddb396": "Durga Puja, Diwali, Chhath 2026: 418 special trains from Mumbai announced, check routes and dates - The Indian Express"
+  "d42ad1c5f9df10f5f39cf7e147ddb396": "Durga Puja, Diwali, Chhath 2026: 418 special trains from Mumbai announced, check routes and dates - The Indian Express",
+  "c7dd8f9d68a9a86f0da338622a5be91f": "Diwali and Chhath Special Trains: Indian Railways to operate festival special trains to UP, Bihar; check full - CNBC TV1",
+  "f3267ca1b2895a4697147f16bd17db8e": "Mumbai’s Central Railway rolls out 60 festival trains ahead of Diwali, Chhath Puja – Check routes, timings, stoppages - "
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -2575,9 +2576,12 @@
   "2319780": "रक्षा राज्य मंत्री श्री संजय सेठ पारादीप तट पर एसएआरईएक्स-2026 का उद्घाटन करेंगे",
   "2319772": "पीएम मेमेंटोज से सिक्किम की सांस्कृतिक विरासत लोगों के और करीब",
   "2319760": "थल सेना अध्यक्ष (सीओएएस) ने नई दिल्ली में संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान दल का स्वागत किया",
-  "2319773": "वित्तीय सेवा विभाग के सचिव श्री संजय लोहिया ने सार्वजनिक और निजी क्षेत्र के बैंकों के वरिष्ठ अधिकारियों के साथ वित्तीय स"
+  "2319773": "वित्तीय सेवा विभाग के सचिव श्री संजय लोहिया ने सार्वजनिक और निजी क्षेत्र के बैंकों के वरिष्ठ अधिकारियों के साथ वित्तीय स",
+  "2319898": "इंडियाएआई मिशन ने भारत के एआई प्रतिभा पारितंत्र को सुदृढ़ करने के लिए राष्ट्रीय प्रौद्योगिकी संस्थान, आंध्र प्रदेश में ए",
+  "2319897": "स्वच्छता ही सेवा 2026: पंचायती राज मंत्रालय और डीडीडब्ल्यूएस ने पंचायतों तक स्वच्छता और कचरा प्रबंधन का संदेश पहुंचाया",
+  "2319924": "सरकार ने एयर मार्शल आशुतोष दीक्षित (पीवीएसएम, एवीएसएम, वीएम, वीएसएम) को वायु सेना प्रमुख (सीएएस) नियुक्त किया"
  },
  "avail": {},
- "last_press_poll": 1791331050.1986332,
- "last_heartbeat": "2026-10-06"
+ "last_press_poll": 1791353180.4067223,
+ "last_heartbeat": "2026-10-07"
 }
