@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-10-13|2031-10-15|0010000|16.15",
+   "sig": "2026-10-14|2031-10-16|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-14",
@@ -12,13 +12,12 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "13-Oct-2026 06:57:15 IST"
+   "changed": "14-Oct-2026 06:34:06 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-10-13|2031-10-15|1111111|21.05",
+   "sig": "2026-10-14|2031-10-16|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-13",
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
@@ -47,7 +46,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "13-Oct-2026 06:57:15 IST"
+   "changed": "14-Oct-2026 06:34:06 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -99,7 +98,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-10-13|2031-10-14|0010000|10.00",
+   "sig": "2026-10-14|2031-10-15|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-14",
@@ -109,11 +108,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "13-Oct-2026 06:57:15 IST",
+   "changed": "14-Oct-2026 06:34:06 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-10-13|2031-10-15|0000010|15.25",
+   "sig": "2026-10-14|2031-10-16|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-17",
@@ -123,11 +122,11 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "13-Oct-2026 06:57:15 IST",
+   "changed": "14-Oct-2026 06:34:06 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-10-13|2031-10-15|0010000|16.15",
+   "sig": "2026-10-14|2031-10-16|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-14",
@@ -137,10 +136,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "13-Oct-2026 06:57:15 IST"
+   "changed": "14-Oct-2026 06:34:06 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-10-13|2031-10-14|0010000|10.00",
+   "sig": "2026-10-14|2031-10-15|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-14",
@@ -150,11 +149,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "13-Oct-2026 06:57:15 IST",
+   "changed": "14-Oct-2026 06:34:06 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-10-13|2031-10-14|0010000|10.00",
+   "sig": "2026-10-14|2031-10-15|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-14",
@@ -164,7 +163,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "13-Oct-2026 06:57:15 IST"
+   "changed": "14-Oct-2026 06:34:06 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-06-18|2050-01-03|0001000|15.00",
@@ -1682,7 +1681,8 @@
   "4d8f7c05db9baf3052d4a3de39f79f63": "दिवाली-छठ पर भोपाल मंडल से चलेंगी 12 जोड़ी स्पेशल ट्रेनें: मुंबई-पुणे से यूपी-बिहार तक जाने वालों को राहत - Amar Ujala",
   "934904f5bb8a2f916ce268266fc32ef3": "Train travel rules change from October 1: Who must carry original ID and what can get you fined - Livemint",
   "2f9e21c4d8a08d86b65458cf1c724d3d": "Central Railway To Operate 1,702 Special Trains For Diwali And Chhath Puja To Facilitate Festival Travel - Free Press Jo",
-  "1a3d196c684f6caf0b0cca994cfd85ce": "10 policemen from city honoured with President’s Medal - The Indian Express"
+  "1a3d196c684f6caf0b0cca994cfd85ce": "10 policemen from city honoured with President’s Medal - The Indian Express",
+  "38f1c9c04ac48853acabab6eb7f333fa": "Bank Holidays Next Week: Full City-Wise RBI Schedule From September 14 to 20 - LatestLY"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -3065,6 +3065,6 @@
   "2322992": "मुंबई में समुद्री राज्य विकास परिषद (एमएसडीसी) की 21वीं बैठक आज सफलतापूर्वक संपन्न"
  },
  "avail": {},
- "last_press_poll": 1791938430.5599601,
+ "last_press_poll": 1791939642.0849435,
  "last_heartbeat": "2026-10-13"
 }
