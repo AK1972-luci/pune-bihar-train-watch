@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-10-15|2031-10-17|0010000|16.15",
+   "sig": "2026-10-16|2031-10-18|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -11,13 +11,12 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "15-Oct-2026 12:20:37 IST"
+   "changed": "16-Oct-2026 11:02:52 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-10-15|2031-10-17|1111111|21.05",
+   "sig": "2026-10-16|2031-10-18|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-15",
     "2026-10-16",
     "2026-10-17",
     "2026-10-18",
@@ -44,7 +43,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "15-Oct-2026 12:20:37 IST"
+   "changed": "16-Oct-2026 11:02:52 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -96,7 +95,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-10-15|2031-10-16|0010000|10.00",
+   "sig": "2026-10-16|2031-10-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -105,11 +104,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Oct-2026 12:20:37 IST",
+   "changed": "16-Oct-2026 11:02:52 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-10-15|2031-10-17|0000010|15.25",
+   "sig": "2026-10-16|2031-10-18|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-17",
@@ -119,11 +118,11 @@
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "15-Oct-2026 12:20:37 IST",
+   "changed": "16-Oct-2026 11:02:52 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-10-15|2031-10-17|0010000|16.15",
+   "sig": "2026-10-16|2031-10-18|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -132,10 +131,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "15-Oct-2026 12:20:37 IST"
+   "changed": "16-Oct-2026 11:02:52 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-10-15|2031-10-16|0010000|10.00",
+   "sig": "2026-10-16|2031-10-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -144,11 +143,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Oct-2026 12:20:37 IST",
+   "changed": "16-Oct-2026 11:02:52 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-10-15|2031-10-16|0010000|10.00",
+   "sig": "2026-10-16|2031-10-17|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -157,7 +156,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "15-Oct-2026 12:20:37 IST"
+   "changed": "16-Oct-2026 11:02:52 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-10-15|2026-11-28|0001000|15.00",
@@ -1725,7 +1724,12 @@
   "138742566af89fa9f6c3abd8dbf339fb": "Diwali Special Trains 2026: 12 Pairs Of Special Trains To Run Via Bhopal Division For Passenger Convenience - Free Press",
   "1483056a45082525ff8c76750eee2b41": "Delhi-Patna Vande Bharat Special For Diwali, Chhath: Route, Stops And Fare - NDTV",
   "5ef2c76257bc723ed664f0456111e2a3": "Indian Railways Introduces Special Trains Connecting Nagpur for Festive Season Travel - Nagpur Today",
-  "625ec0f4f4ff1b4b5c4e920376ded433": "पटना मेट्रो: पुणे से आएंगी 3 ट्रेनें, 2027 तक 2 रूट चालू - Prabhat Khabar"
+  "625ec0f4f4ff1b4b5c4e920376ded433": "पटना मेट्रो: पुणे से आएंगी 3 ट्रेनें, 2027 तक 2 रूट चालू - Prabhat Khabar",
+  "16dbec1aff4a5c9ef3841a3eec0f5225": "Summer Special Trains To Various Destinations - Sarkaritel.com",
+  "3970c571e733970fb883b236eb25c5bc": "India Railways announces several special trains for Diwali and Chhath | Check List - India TV News",
+  "6bdfbd6b941b75b521cb3c602624d914": "Diwali Travel Rush: Mumbai-Pune to Nagpur Train Tickets Sold Out, Airfares Soar to ₹19,000 - Nagpur Today",
+  "6fa6793b2c275ad82c519d0a82062444": "15-day rail block to hit Pune train services from Sept 19 | Hindustan Times - Hindustan Times",
+  "4460f8dec227aa55cfeea662b0f5a987": "First direct Beed-Pune daily train service launched | Hindustan Times - Hindustan Times"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -3217,9 +3221,13 @@
   "2324095": "अप्रैल-सितंबर 2026-27 के दौरान कुल निर्यात (वस्तु एवं सेवाएँ) 476.20 अरब अमेरिकी डॉलर होने का अनुमान है, जबकि अप्रैल-सित",
   "2324049": "रक्षा राज्य मंत्री ने असम के गुवाहाटी में राष्ट्रीय कैडेट कोर के राज्य प्रतिनिधियों और अपर महानिदेशकों के विशेष संयुक्त ",
   "2324089": "प्रयोगशाला से व्यावहारिक धरातल तक, विचार से वास्तविक परिणाम व सामाजिक प्रभाव तक: केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने उद",
-  "2324174": "केंद्रीय संस्कृति एवं पर्यटन मंत्री श्री गजेंद्र सिंह शेखावत ने राष्ट्रीय आधुनिक कला संग्रहालय (एनजीएमए) में तक्षणम प्रद"
+  "2324174": "केंद्रीय संस्कृति एवं पर्यटन मंत्री श्री गजेंद्र सिंह शेखावत ने राष्ट्रीय आधुनिक कला संग्रहालय (एनजीएमए) में तक्षणम प्रद",
+  "2324189": "विधि और न्याय मंत्रालय के विधायी विभाग ने विशेष अभियान 6 के अंतर्गत ई-कचरा निपटान पर कार्यशाला का आयोजन किया",
+  "2324192": "केंद्रीय वित्त एवं कॉरपोरेट कार्य मंत्री श्रीमती निर्मला सीतारमण ने आज थाईलैंड के बैंकॉक में विश्व बैंक की विकास समिति क",
+  "2324194": "12 और 13 अक्टूबर, 2026 को हरियाणा के गुरुग्राम में 'दीनदयाल अंत्योदय योजना-राष्ट्रीय ग्रामीण आजीविका मिशन' के तहत 'डिजिट",
+  "2324190": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई खेल 2026 में भाग लेने वाले भारतीय एथलीट दल से बातचीत की"
  },
  "avail": {},
- "last_press_poll": 1792107578.2641306,
- "last_heartbeat": "2026-10-15"
+ "last_press_poll": 1792129597.0430648,
+ "last_heartbeat": "2026-10-16"
 }
