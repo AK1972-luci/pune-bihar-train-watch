@@ -998,3 +998,121 @@ Detected: 17-Oct-2026 00:36:03 IST
 Still watching Pune → PNBE/MFP/DNR for 2026-10-01 to 2026-11-05.
 Specials currently listed from Pune: 01449 PUNE DNR SPECIAL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-05', '2026-10-06', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-12', '2026-10-13', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-19', '2026-10-20', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-02', '2026-11-03', '2026-11-04', '2026-11-05', '2026-09-29', '2026-09-30', '2026-11-06', '2026-11-07']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']
 Sources OK as of 17-Oct-2026 09:48:11 IST
+
+===== 17-Oct-2026 21:05:48 IST [urgent] 🚨 NEW SPECIAL: 01453 HDP MFP SPL → PPTA on your TARGET date =====
+🚆 HDP MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Patliputra (PPTA) arr 09:30 (journey 37:35 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 650,335,400,190,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:48 IST
+
+===== 17-Oct-2026 21:05:49 IST [urgent] 🚨 NEW SPECIAL: 01481 HDP MFP SPL → PPTA on your TARGET date =====
+🚆 HDP MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Patliputra (PPTA) arr 09:30 (journey 37:35 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 650,335,400,190,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:49 IST
+
+===== 17-Oct-2026 21:05:49 IST [urgent] 🚨 NEW SPECIAL: 01453 HDP MFP SPL → MFP on your TARGET date =====
+🚆 HDP MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Muzaffarpur Jn (MFP) arr 12:00 (journey 40:05 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 670,345,410,195,345,540 | 385,195,385,0,385,385
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:49 IST
+
+===== 17-Oct-2026 21:05:49 IST [urgent] 🚨 NEW SPECIAL: 01481 HDP MFP SPL → MFP on your TARGET date =====
+🚆 HDP MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Muzaffarpur Jn (MFP) arr 12:00 (journey 40:05 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 670,345,410,195,345,540 | 385,195,385,0,385,385
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:49 IST
+
+===== 17-Oct-2026 21:05:49 IST [urgent] 🚨 NEW SPECIAL: 01453 HDP MFP SPL → DNR on your TARGET date =====
+🚆 HDP MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Danapur (DNR) arr 08:35 (journey 36:40 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 650,335,400,190,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:49 IST
+
+===== 17-Oct-2026 21:05:49 IST [urgent] 🚨 NEW SPECIAL: 01481 HDP MFP SPL → DNR on your TARGET date =====
+🚆 HDP MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Hadapsar (Pune) (HDP) → Muzaffarpur Jn (MFP)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Danapur (DNR) arr 08:35 (journey 36:40 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 650,335,400,190,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 17-Oct-2026 21:05:49 IST
+
+===== 17-Oct-2026 21:09:01 IST [high] 📢 News (PUNE PULSE): Pune: Amrit Bharat Festival Special Trains To Run Between Hadapsar and Muzaffarpur - PUNE PULSE =====
+📢 Pune: Amrit Bharat Festival Special Trains To Run Between Hadapsar and Muzaffarpur - PUNE PULSE
+Source: News (PUNE PULSE)  Published: 17-Oct-2026 16:44 IST
+Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVgyenNjY0hGUG81anFIbU9YWGhlLTlQVi1BcnIzQV9UQVNxVmtyc1FadVBxQXZScWdFYXJtRnlTeWZETm51NHh3ZXBlNDVraXN2bUQxSGRuOHgzb2lzUzRzT3dnYUY3eUMwZmtSekxNMTFtQlA4N2hTamtFZ2xNclQySlhmQ092RktRbE9iNEVKaW40TVB5SEFIX0FZd3oxUnRNbUdXbHRlVW1sbXpN?oc=5
+Special train numbers mentioned: none parsed
+Dates mentioned: none parsed
+Booking info: not stated
+Excerpt: …Pune: Amrit Bharat Festival Special Trains To Run Between Hadapsar and Muzaffarpur - PUNE PULSE…
+Book: https://www.irctc.co.in/nget/train-search
+Detected: 17-Oct-2026 21:09:01 IST
+
+===== 17-Oct-2026 21:09:01 IST [high] 📢 News (Punekar News): Diwali, Chhath Rush: Central Railway Announces Amrit Bharat Specials Between Hadapsar and Muzaffarpur - Puneka =====
+📢 Diwali, Chhath Rush: Central Railway Announces Amrit Bharat Specials Between Hadapsar and Muzaffarpur - Punekar News
+Source: News (Punekar News)  Published: 17-Oct-2026 17:39 IST
+Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUEtcDJiZHdfYmlINTh3ZTUyNDNSR3lORGZ6cTVtS09Bd0hlTlBuMjkzWTdzQWJsd0ZGN21SWTZGaDN5MEhUb1cwQ1JhOWt4R3JjYUttaWlvNUlMOV95X1lmUWpYakMxNlZIYnhPeFFLMkNkS1BnM1VPVENaVExKRVpieXd1TUlSdGlyWUZUQUhnOVE2VzdaUUhkMGxqandaT2ZSVVZFT0JyUURNTnkwVDh1enVjbUdBM0RFS0RHT3MySldkbUE?oc=5
+Special train numbers mentioned: none parsed
+Dates mentioned: none parsed
+Booking info: not stated
+Excerpt: …Diwali, Chhath Rush: Central Railway Announces Amrit Bharat Specials Between Hadapsar and Muzaffarpur - Punekar News…
+Book: https://www.irctc.co.in/nget/train-search
+Detected: 17-Oct-2026 21:09:01 IST
