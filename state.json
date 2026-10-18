@@ -2,7 +2,7 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-10-17|2031-10-19|0010000|16.15",
+   "sig": "2026-10-18|2031-10-20|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -11,13 +11,12 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "17-Oct-2026 09:44:50 IST"
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-10-17|2031-10-19|1111111|21.05",
+   "sig": "2026-10-18|2031-10-20|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -42,7 +41,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "17-Oct-2026 09:44:50 IST"
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -94,7 +93,7 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-10-17|2031-10-18|0010000|10.00",
+   "sig": "2026-10-18|2031-10-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -103,25 +102,24 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Oct-2026 09:44:50 IST",
+   "changed": "18-Oct-2026 08:26:54 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-10-17|2031-10-19|0000010|15.25",
+   "sig": "2026-10-18|2031-10-20|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-10-17",
     "2026-10-24",
     "2026-10-31",
     "2026-11-07"
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "17-Oct-2026 09:44:50 IST",
+   "changed": "18-Oct-2026 08:26:54 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-10-17|2031-10-19|0010000|16.15",
+   "sig": "2026-10-18|2031-10-20|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -130,10 +128,10 @@
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "17-Oct-2026 09:44:50 IST"
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-10-17|2031-10-18|0010000|10.00",
+   "sig": "2026-10-18|2031-10-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -142,11 +140,11 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Oct-2026 09:44:50 IST",
+   "changed": "18-Oct-2026 08:26:54 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-10-17|2031-10-18|0010000|10.00",
+   "sig": "2026-10-18|2031-10-19|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-10-21",
@@ -155,7 +153,7 @@
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "17-Oct-2026 09:44:50 IST"
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-10-15|2026-11-28|0001000|15.00",
@@ -240,7 +238,7 @@
    "name": "UBL MFP SPL"
   },
   "01453|HDP|PPTA": {
-   "sig": "2026-10-19|2026-11-25|1000000|19.55",
+   "sig": "2026-10-19|2026-11-25|1000000|19.52",
    "first_seen": "17-Oct-2026 21:05:48 IST",
    "dates": [
     "2026-10-19",
@@ -248,10 +246,11 @@
     "2026-11-02"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01481|HDP|PPTA": {
-   "sig": "2026-10-20|2026-11-26|0100000|19.55",
+   "sig": "2026-10-20|2026-11-26|0100000|19.52",
    "first_seen": "17-Oct-2026 21:05:49 IST",
    "dates": [
     "2026-10-20",
@@ -259,10 +258,11 @@
     "2026-11-03"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01453|HDP|MFP": {
-   "sig": "2026-10-19|2026-11-25|1000000|19.55",
+   "sig": "2026-10-19|2026-11-25|1000000|19.52",
    "first_seen": "17-Oct-2026 21:05:49 IST",
    "dates": [
     "2026-10-19",
@@ -270,10 +270,11 @@
     "2026-11-02"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01481|HDP|MFP": {
-   "sig": "2026-10-20|2026-11-26|0100000|19.55",
+   "sig": "2026-10-20|2026-11-26|0100000|19.52",
    "first_seen": "17-Oct-2026 21:05:49 IST",
    "dates": [
     "2026-10-20",
@@ -281,10 +282,11 @@
     "2026-11-03"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01453|HDP|DNR": {
-   "sig": "2026-10-19|2026-11-25|1000000|19.55",
+   "sig": "2026-10-19|2026-11-25|1000000|19.52",
    "first_seen": "17-Oct-2026 21:05:49 IST",
    "dates": [
     "2026-10-19",
@@ -292,10 +294,11 @@
     "2026-11-02"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
   },
   "01481|HDP|DNR": {
-   "sig": "2026-10-20|2026-11-26|0100000|19.55",
+   "sig": "2026-10-20|2026-11-26|0100000|19.52",
    "first_seen": "17-Oct-2026 21:05:49 IST",
    "dates": [
     "2026-10-20",
@@ -303,7 +306,74 @@
     "2026-11-03"
    ],
    "booking_open": false,
-   "name": "HDP MFP SPL"
+   "name": "HDP MFP SPL",
+   "changed": "18-Oct-2026 08:26:54 IST"
+  },
+  "01453|PUNE|PPTA": {
+   "sig": "2026-10-19|2026-11-25|1000000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
+  },
+  "01481|PUNE|PPTA": {
+   "sig": "2026-10-20|2026-11-26|0100000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
+  },
+  "01453|PUNE|MFP": {
+   "sig": "2026-10-19|2026-11-25|1000000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
+  },
+  "01481|PUNE|MFP": {
+   "sig": "2026-10-20|2026-11-26|0100000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
+  },
+  "01453|PUNE|DNR": {
+   "sig": "2026-10-19|2026-11-25|1000000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
+  },
+  "01481|PUNE|DNR": {
+   "sig": "2026-10-20|2026-11-26|0100000|19.40",
+   "first_seen": "18-Oct-2026 08:26:54 IST",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03"
+   ],
+   "booking_open": false,
+   "name": "PUNE MFP SPL"
   }
  },
  "press": {
@@ -1841,7 +1911,10 @@
   "1382d351ebfeea0b23ab196bf4790383": "‘Ramayana’ Trailer Reactions: Yash’s Fierce Ravana and Ranbir Kapoor-Sai Pallavi’s Divine Avatars - LatestLY",
   "b295396714f243de6e73c4677b89ed65": "Pune to Delhi, Nagpur, Sirsa, Gorakhpur: Central Railway Announces Special Trains for Dussehra, Diwali 2025 - Punekar Ne",
   "6f553d7bc71dcf4fe2955966985bcb48": "Central Railway Catches 23.76 Lakh Ticketless Travellers, Collects Rs 141.27 Crore in - Punekar News",
-  "8568d68ea2d3198cc7838f7436bf8b38": "Train News: छठ पर बिहार आए लोग ध्यान दें! दिल्ली, मुबंई, सिकंदराबाद समेत इन शहरों के लिए - ABP News"
+  "8568d68ea2d3198cc7838f7436bf8b38": "Train News: छठ पर बिहार आए लोग ध्यान दें! दिल्ली, मुबंई, सिकंदराबाद समेत इन शहरों के लिए - ABP News",
+  "7b6640fe3770801957d63ae66461a238": "Ranbir Kapoor To Miss ‘Ramayana’ Trailer Launch Event After Contracting Conjunctivitis? - LatestLY",
+  "b8ad1413c779e9ec144b727a12fbf2aa": "Central Railway Increases Train Speeds On Daund-Solapur-Wadi Section, Reducing Travel Time And Boosting - Free Press Jou",
+  "bdde03afb7d5c9bc7da57eaa397bfb37": "Pune–Danapur, Hadapsar–Jhansi Special Trains Extended Till September; Reservation Start July 5 - Punekar News"
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -3402,6 +3475,6 @@
   "2324809": "AIIA ने दो समझौता ज्ञापनों, प्रमुख अकादमिक प्रकाशनों और डिजिटल पहलों के साथ मनाया अपना 10वाँ स्थापना दिवस"
  },
  "avail": {},
- "last_press_poll": 1792271173.2137847,
+ "last_press_poll": 1792293008.8392277,
  "last_heartbeat": "2026-10-17"
 }

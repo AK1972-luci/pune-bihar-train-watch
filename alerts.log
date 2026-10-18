@@ -1116,3 +1116,99 @@ Booking info: not stated
 Excerpt: …Diwali, Chhath Rush: Central Railway Announces Amrit Bharat Specials Between Hadapsar and Muzaffarpur - Punekar News…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 17-Oct-2026 21:09:01 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01453 PUNE MFP SPL → PPTA on your TARGET date =====
+🚆 PUNE MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Patliputra (PPTA) arr 09:30 (journey 37:50 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 660,340,405,190,340,530 | 375,190,375,0,375,375
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01481 PUNE MFP SPL → PPTA on your TARGET date =====
+🚆 PUNE MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Patliputra (PPTA) arr 09:30 (journey 37:50 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 660,340,405,190,340,530 | 375,190,375,0,375,375
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01453 PUNE MFP SPL → MFP on your TARGET date =====
+🚆 PUNE MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Muzaffarpur Jn (MFP) arr 12:00 (journey 40:20 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 680,350,415,195,350,545 | 385,195,385,0,385,385
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01481 PUNE MFP SPL → MFP on your TARGET date =====
+🚆 PUNE MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Muzaffarpur Jn (MFP) arr 12:00 (journey 40:20 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 680,350,415,195,350,545 | 385,195,385,0,385,385
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01453 PUNE MFP SPL → DNR on your TARGET date =====
+🚆 PUNE MFP SPL (01453)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Danapur (DNR) arr 08:35 (journey 36:55 h)
+Pune departure dates matching you: Mon 19 Oct, Mon 26 Oct, Mon 02 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1000000  Valid: 2026-10-19 to 2026-11-25
+Classes: 2A, 3A, GN, SL   Fare groups: 650,335,400,190,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
+
+===== 18-Oct-2026 08:26:54 IST [urgent] 🚨 NEW SPECIAL: 01481 PUNE MFP SPL → DNR on your TARGET date =====
+🚆 PUNE MFP SPL (01481)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Muzaffarpur Jn (MFP)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Danapur (DNR) arr 08:35 (journey 36:55 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-20 to 2026-11-26
+Classes: GN, SL   Fare groups: 915,335,400,0,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 18-Oct-2026 08:26:54 IST
