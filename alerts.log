@@ -1228,3 +1228,334 @@ Booking info: not stated
 Excerpt: …Prayagraj News: पुणे और बिहार के लिए स्पेशल ट्रेनों से राहत - Hindustan…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 18-Oct-2026 19:51:03 IST
+
+===== 19-Oct-2026 06:52:56 IST [high] 📢 News (VSRS News): हडपसर- मुजफ्फरपुर के बीच अमृत भारत फेस्टिवल स्पेशल ट्रेनें - Hindi e news Paper Online | Latest News Hindi - V =====
+📢 हडपसर- मुजफ्फरपुर के बीच अमृत भारत फेस्टिवल स्पेशल ट्रेनें - Hindi e news Paper Online | Latest News Hindi - VSRS News
+Source: News (VSRS News)  Published: 17-Oct-2026 15:10 IST
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWl0YXhyYkpJOEdjS0ZwQXBvWUFLRGN2NlA2Ul9vaEJGOHZab2k1emxrZUpPdUpYOGNXeUNKR2wtb0ZsakJpR21kNS0zcjZVV1V0OFJ2aUhjYi0tWThEOGJzc2Y3M3J6U3YwTU5RQ2d1bzNCVHRqUHhETXhqRFlwYVNEMnVLdG1lemx6em5GTnZScXUtWS13SVJ5VG0tbkx3YWR0Q3dSYW96eUpQNFRUd0tXTQ?oc=5
+Special train numbers mentioned: none parsed
+Dates mentioned: none parsed
+Booking info: not stated
+Excerpt: …हडपसर- मुजफ्फरपुर के बीच अमृत भारत फेस्टिवल स्पेशल ट्रेनें - Hindi e news Paper Online | Latest News Hindi - VSRS News…
+Book: https://www.irctc.co.in/nget/train-search
+Detected: 19-Oct-2026 06:52:56 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 11034 DBG PUNE EXP → HJP on your TARGET date =====
+🚆 DBG PUNE EXP (11034)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: CR
+Route: Darbhanga Jn (DBG) → Pune Jn (PUNE)
+Boards at: Pune Jn (PUNE) dep Last
+Alights at: Hajipur Jn (HJP) arr 20:05 (journey 00:00 h)
+Pune departure dates matching you: Sun 25 Oct, Sun 01 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000001  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-HJP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 11402 SOU PUNE EXP → DNR on your TARGET date =====
+🚆 SOU PUNE EXP (11402)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: CR
+Route: Supaul (SOU) → Pune Jn (PUNE)
+Boards at: Pune Jn (PUNE) dep Last
+Alights at: Danapur (DNR) arr 22:40 (journey 00:00 h)
+Pune departure dates matching you: Mon 19 Oct … Sat 07 Nov (20 departure dates in your window)  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1111111  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 01450 DNR PUNE SPL → DNR on your TARGET date =====
+🚆 DNR PUNE SPL (01450)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Danapur (DNR) → Pune Jn (PUNE)
+Boards at: Pune Jn (PUNE) dep Last
+Alights at: Danapur (DNR) arr First (journey 00:00 h)
+Pune departure dates matching you: Thu 01 Oct … Sat 07 Nov (40 departure dates in your window)  ← TARGET DATE ✅
+Runs on (Mon..Sun): 1111111  Valid: 2026-08-05 to 2050-01-01
+Classes: 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [high] New special announced: 01454 MFP HDP SPL → PPTA (not yet on your dates) =====
+🚆 MFP HDP SPL (01454)  [NEW SPECIAL ON ROUTE – other dates; will keep watching for extension]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Patliputra (PPTA) arr 15:30 (journey 00:00 h)
+Pune departure dates matching you: -
+Runs on (Mon..Sun): 0000100  Valid: 2026-12-25 to 2026-10-19
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,30,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 07316 MFP UBL PUJA SPL → PPTA on your TARGET date =====
+🚆 MFP UBL PUJA SPL (07316)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: SWR
+Route: Muzaffarpur Jn (MFP) → Hubballi Jn (UBL)
+Boards at: Pune Jn (PUNE) dep 19:50
+Alights at: Patliputra (PPTA) arr 10:50 (journey 00:00 h)
+Pune departure dates matching you: Sat 03 Oct, Sat 10 Oct, Sat 17 Oct, Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-04-12 to 2026-11-27
+Classes: 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,30,0,0,0,0
+Your classes (3A/2A): 3A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 01482 MFP HDP SPL → PPTA on your TARGET date =====
+🚆 MFP HDP SPL (01482)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Patliputra (PPTA) arr 15:30 (journey 00:00 h)
+Pune departure dates matching you: Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-10-24 to 2026-11-26
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 05589 MFP HDP SPL → PPTA on your TARGET date =====
+🚆 MFP HDP SPL (05589)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Patliputra (PPTA) arr 22:00 (journey 00:00 h)
+Pune departure dates matching you: Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-10-22 to 2026-11-24
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 15589 MFP HDP AC EXP → PPTA on your TARGET date =====
+🚆 MFP HDP AC EXP (15589)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Patliputra (PPTA) arr 21:50 (journey 00:00 h)
+Pune departure dates matching you: Wed 21 Oct, Wed 28 Oct, Wed 04 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0010000  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3E   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-PPTA
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 11432 AMRIT BHARAT EXP → DNR on your TARGET date =====
+🚆 AMRIT BHARAT EXP (11432)  [NEW TRAIN – runs on your dates]
+Type: regular   Zone: 
+Route: Danapur (DNR) → Pune Jn (PUNE)
+Boards at: Pune Jn (PUNE) dep Last
+Alights at: Danapur (DNR) arr First (journey 00:00 h)
+Pune departure dates matching you: Tue 20 Oct, Tue 27 Oct, Tue 03 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0100000  Valid: 2026-10-19 to 2031-10-19
+Classes: GN, SL   Fare groups: 0,0,0,0,0,0
+Your classes (3A/2A): NOT listed on this train ⚠️
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 11034 DBG PUNE EXP → MFP on your TARGET date =====
+🚆 DBG PUNE EXP (11034)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: CR
+Route: Darbhanga Jn (DBG) → Pune Jn (PUNE)
+Boards at: Pune Jn (PUNE) dep Last
+Alights at: Muzaffarpur Jn (MFP) arr 19:10 (journey 00:00 h)
+Pune departure dates matching you: Sun 25 Oct, Sun 01 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000001  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [high] New special announced: 01454 MFP HDP SPL → MFP (not yet on your dates) =====
+🚆 MFP HDP SPL (01454)  [NEW SPECIAL ON ROUTE – other dates; will keep watching for extension]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Muzaffarpur Jn (MFP) arr First (journey 00:00 h)
+Pune departure dates matching you: -
+Runs on (Mon..Sun): 0000100  Valid: 2026-12-25 to 2026-10-19
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,30,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 07316 MFP UBL PUJA SPL → MFP on your TARGET date =====
+🚆 MFP UBL PUJA SPL (07316)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: SWR
+Route: Muzaffarpur Jn (MFP) → Hubballi Jn (UBL)
+Boards at: Pune Jn (PUNE) dep 19:50
+Alights at: Muzaffarpur Jn (MFP) arr First (journey 00:00 h)
+Pune departure dates matching you: Sat 03 Oct, Sat 10 Oct, Sat 17 Oct, Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-04-12 to 2026-11-27
+Classes: 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,30,0,0,0,0
+Your classes (3A/2A): 3A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 01482 MFP HDP SPL → MFP on your TARGET date =====
+🚆 MFP HDP SPL (01482)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Muzaffarpur Jn (MFP) arr First (journey 00:00 h)
+Pune departure dates matching you: Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-10-24 to 2026-11-26
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 05589 MFP HDP SPL → MFP on your TARGET date =====
+🚆 MFP HDP SPL (05589)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Muzaffarpur Jn (MFP) arr First (journey 00:00 h)
+Pune departure dates matching you: Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-10-22 to 2026-11-24
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 15589 MFP HDP AC EXP → MFP on your TARGET date =====
+🚆 MFP HDP AC EXP (15589)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Muzaffarpur Jn (MFP) arr First (journey 00:00 h)
+Pune departure dates matching you: Wed 21 Oct, Wed 28 Oct, Wed 04 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0010000  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3E   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-MFP
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 07316 MFP UBL PUJA SPL → DNR on your TARGET date =====
+🚆 MFP UBL PUJA SPL (07316)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: SWR
+Route: Muzaffarpur Jn (MFP) → Hubballi Jn (UBL)
+Boards at: Pune Jn (PUNE) dep 19:50
+Alights at: Danapur (DNR) arr 11:18 (journey 00:00 h)
+Pune departure dates matching you: Sat 03 Oct, Sat 10 Oct, Sat 17 Oct, Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-04-12 to 2026-11-27
+Classes: 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [high] New special announced: 01454 MFP HDP SPL → DNR (not yet on your dates) =====
+🚆 MFP HDP SPL (01454)  [NEW SPECIAL ON ROUTE – other dates; will keep watching for extension]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Danapur (DNR) arr 15:58 (journey 00:00 h)
+Pune departure dates matching you: -
+Runs on (Mon..Sun): 0000100  Valid: 2026-12-25 to 2026-10-19
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,30,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 01482 MFP HDP SPL → DNR on your TARGET date =====
+🚆 MFP HDP SPL (01482)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Danapur (DNR) arr 15:58 (journey 00:00 h)
+Pune departure dates matching you: Sat 24 Oct, Sat 31 Oct, Sat 07 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0000010  Valid: 2026-10-24 to 2026-11-26
+Classes: n/a   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW SPECIAL: 05589 MFP HDP SPL → DNR on your TARGET date =====
+🚆 MFP HDP SPL (05589)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Danapur (DNR) arr 22:23 (journey 00:00 h)
+Pune departure dates matching you: Thu 22 Oct, Thu 29 Oct, Thu 05 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0001000  Valid: 2026-10-22 to 2026-11-24
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
+
+===== 19-Oct-2026 06:56:15 IST [urgent] 🚨 NEW TRAIN: 15589 MFP HDP AC EXP → DNR on your TARGET date =====
+🚆 MFP HDP AC EXP (15589)  [NEW TRAIN – runs on your dates]
+Type: regular MAIL_EXPRESS  Zone: ECR
+Route: Muzaffarpur Jn (MFP) → Hadapsar (Pune) (HDP)
+Boards at: Hadapsar (Pune) (HDP) dep Last
+Alights at: Danapur (DNR) arr 22:13 (journey 00:00 h)
+Pune departure dates matching you: Wed 21 Oct, Wed 28 Oct, Wed 04 Nov  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0010000  Valid: 2026-10-19 to 2031-10-19
+Classes: 2A, 3E   Fare groups: 0,0,0,0,0,0 | 0,0,0,0,0,0 | 0,0,0,0,0,0
+Your classes (3A/2A): 2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 19-Oct-2026 06:56:15 IST
