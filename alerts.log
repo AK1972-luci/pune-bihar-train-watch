@@ -1874,3 +1874,35 @@ Booking info: not stated
 Excerpt: …पुणे से बिहार जाने वालों के लिए राहत: दिवाली-छठ पर चलेगी 01441, इटारसी, सतना, प्रयागराज होकर - RailJournal…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 24-Oct-2026 23:11:56 IST
+
+===== 25-Oct-2026 07:20:58 IST [urgent] 🚨 NEW SPECIAL: 01441 PUNE DNR SPL → DNR on your TARGET date =====
+🚆 PUNE DNR SPL (01441)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Danapur (DNR)
+Boards at: Pune Jn (PUNE) dep 19:40
+Alights at: Danapur (DNR) arr 07:00 (journey 35:20 h)
+Pune departure dates matching you: Thu 01 Oct … Sat 07 Nov (29 departure dates in your window)  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0011111  Valid: 2026-04-17 to 2026-11-15
+Classes: n/a   Fare groups: 915,335,400,0,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 25-Oct-2026 07:20:58 IST
+
+===== 25-Oct-2026 07:20:58 IST [urgent] 🚨 NEW SPECIAL: 01441 PUNE DNR SPL → DNR on your TARGET date =====
+🚆 PUNE DNR SPL (01441)  [NEW SPECIAL – runs on your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: CR
+Route: Pune Jn (PUNE) → Danapur (DNR)
+Boards at: Hadapsar (Pune) (HDP) dep 19:55
+Alights at: Danapur (DNR) arr 07:00 (journey 35:05 h)
+Pune departure dates matching you: Thu 01 Oct … Sat 07 Nov (29 departure dates in your window)  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0011111  Valid: 2026-04-17 to 2026-11-15
+Classes: n/a   Fare groups: 650,335,400,265,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): coach info not published yet
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/HDP-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 25-Oct-2026 07:20:58 IST
