@@ -2135,3 +2135,30 @@ Booking info: not stated
 Excerpt: …त्योहारी सीजन में यात्रियों की बल्ले-बल्ले, जबलपुर होकर पुणे-दानापुर के बीच चलेगी स्पेशल ट्रेन - Nai Dunia…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 29-Oct-2026 02:09:56 IST
+
+===== 29-Oct-2026 13:30:50 IST [high] 📢 News (Udaipur Kiran): Diwali-Chhath Special Train: Pune-Danapur Service to Benefit Madhya Pradesh Passengers; Several Train Timings  =====
+📢 Diwali-Chhath Special Train: Pune-Danapur Service to Benefit Madhya Pradesh Passengers; Several Train Timings Revised - Udaipur Kiran
+Source: News (Udaipur Kiran)  Published: 29-Oct-2026 11:56 IST
+Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMWdfVVVRNjBGY1laRWdSWmVETWFaLXVvQjdkMjBJZUQ3dFFWa2tITk1uamFmaUtVdUJabVhYdUpMZmZhbkJRLU1ZeE9zLVhDWUJTVlYwZmhUNjNtWXQxdlMtdTNjcU82RFpseG1ZWDJ2Z2FTcVpWNHo0V3Q1d2t5NHlzSGh0WWhyTENjdjhha1c1Z0dCRVhsX3Rpd0RacExqZ3lyVFN6ZFZaaW1BMlBIcnVNZjczTm1IUjQ0OEhCcVV6OTQ2ZzBWWkxtajJWUEJjdUNzbVJocjg?oc=5
+Special train numbers mentioned: none parsed
+Dates mentioned: none parsed
+Booking info: not stated
+Excerpt: …Diwali-Chhath Special Train: Pune-Danapur Service to Benefit Madhya Pradesh Passengers; Several Train Timings Revised - Udaipur Kiran…
+Book: https://www.irctc.co.in/nget/train-search
+Detected: 29-Oct-2026 13:30:50 IST
+
+===== 29-Oct-2026 13:31:01 IST [low] Special-train watcher alive ✅ (github) =====
+Still watching Pune → PNBE/MFP/DNR for 2026-10-01 to 2026-11-05.
+Specials currently listed from Pune: 01449 PUNE DNR SPECIAL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-05', '2026-10-06', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-12', '2026-10-13', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-19', '2026-10-20', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-02', '2026-11-03', '2026-11-04', '2026-11-05', '2026-09-29', '2026-09-30', '2026-11-06', '2026-11-07']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 01453 HDP MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 HDP MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 06211 MYS DBG SPECIAL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 06211 MYS DBG SPECIAL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 01441 PUNE DNR SPL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-04', '2026-11-05', '2026-09-30', '2026-11-06', '2026-11-07']; 01441 PUNE DNR SPL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-04', '2026-11-05', '2026-09-30', '2026-11-06', '2026-11-07']
+Sources OK as of 29-Oct-2026 13:31:01 IST
+
+===== 29-Oct-2026 13:38:19 IST [default] 📢 News (Punekar News): Diwali Rush: Pune Railway Station Restricts Platform Tickets from November 1 - Punekar News =====
+📢 Diwali Rush: Pune Railway Station Restricts Platform Tickets from November 1 - Punekar News
+Source: News (Punekar News)  Published: 29-Oct-2026 11:59 IST
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0JCUXVacVZ0VXh1M0xGMV92RzhJNmd6VkhtOUJ6d0luRzZoUnNhZFQ1M2FKbnljWWNMdGpXaHpwT1V5QXFjdlFsLXZGMjN4ZGFQUE9FQXREdG5TUWh0NTBSMVVrS1loWERhM25LM3lFWV90NWNTOE51aGhONzJJMk45bFRzaFhBOTBfVnlIU3I4OFRuR3ZYbjZ0RUNKVFg0WkFpNmRR?oc=5
+Special train numbers mentioned: none parsed
+Dates mentioned: none parsed
+Booking info: not stated
+Excerpt: …Diwali Rush: Pune Railway Station Restricts Platform Tickets from November 1 - Punekar News…
+Book: https://www.irctc.co.in/nget/train-search
+Detected: 29-Oct-2026 13:38:19 IST
