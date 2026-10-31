@@ -2321,3 +2321,40 @@ Booking info: not stated
 Excerpt: …मप्र के यात्रियों को राहत...1 नवंबर से चलेगी स्पेशल ट्रेन: पुणे-महाराष्ट्र जाने वालों को मिलेगी सुविधा; इटा... - Dainik Bhaskar…
 Book: https://www.irctc.co.in/nget/train-search
 Detected: 31-Oct-2026 00:39:19 IST
+
+===== 31-Oct-2026 10:55:07 IST [urgent] 🚨 06211 MYS DBG SPECIAL now runs on 2026-10-07, 2026-10-14, 2026-10-21, 2026-10-28, 2026-11-04, 2026-09-30 =====
+🚆 MYS DBG SPECIAL (06211)  [SCHEDULE EXTENDED – now covers your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: SWR
+Route: Mysore Jn (MYS) → Darbhanga Jn (DBG)
+Boards at: Pune Jn (PUNE) dep 19:15
+Alights at: Patna Jn (PNBE) arr 04:18 (journey 33:03 h)
+Pune departure dates matching you: Wed 07 Oct, Wed 14 Oct, Wed 21 Oct, Wed 28 Oct, Wed 04 Nov, Wed 30 Sep  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0010000  Valid: 2024-01-02 to 2026-11-27
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 4485,2275,2720,0,2275,2275 | 3175,1330,1585,0,1330,1855 | 2295,910,1080,0,910,1330
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-PNBE
+Source: erail.in schedule feed (IR data)
+Detected: 31-Oct-2026 10:55:07 IST
+
+===== 31-Oct-2026 10:55:07 IST [urgent] 🚨 06211 MYS DBG SPECIAL now runs on 2026-10-07, 2026-10-14, 2026-10-21, 2026-10-28, 2026-11-04, 2026-09-30 =====
+🚆 MYS DBG SPECIAL (06211)  [SCHEDULE EXTENDED – now covers your dates]
+Type: SPECIAL MAIL_EXPRESS  Zone: SWR
+Route: Mysore Jn (MYS) → Darbhanga Jn (DBG)
+Boards at: Pune Jn (PUNE) dep 19:15
+Alights at: Danapur (DNR) arr 03:55 (journey 32:40 h)
+Pune departure dates matching you: Wed 07 Oct, Wed 14 Oct, Wed 21 Oct, Wed 28 Oct, Wed 04 Nov, Wed 30 Sep  ← TARGET DATE ✅
+Runs on (Mon..Sun): 0010000  Valid: 2024-01-02 to 2026-11-27
+Classes: 1A, 2A, 3A, GN, SL   Fare groups: 2275,900,1070,0,900,1320 | 915,335,400,0,335,525 | 370,185,370,0,370,370
+Your classes (3A/2A): 3A/2A on this train ✅
+Passengers: 1  Class pref: 3A/2A  Quota: GN
+Book: https://www.irctc.co.in/nget/train-search
+Check: https://erail.in/trains-between-stations/PUNE-to-DNR
+Source: erail.in schedule feed (IR data)
+Detected: 31-Oct-2026 10:55:07 IST
+
+===== 31-Oct-2026 10:58:46 IST [low] Special-train watcher alive ✅ (github) =====
+Still watching Pune → PNBE/MFP/DNR for 2026-10-01 to 2026-11-05.
+Specials currently listed from Pune: 01449 PUNE DNR SPECIAL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-05', '2026-10-06', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-12', '2026-10-13', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-19', '2026-10-20', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-02', '2026-11-03', '2026-11-04', '2026-11-05', '2026-09-29', '2026-09-30', '2026-11-06', '2026-11-07']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 05590 HDP MFP SPECIAL dates=['2026-10-15', '2026-10-22', '2026-10-29', '2026-11-05']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 07315 UBL MFP SPL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 01453 HDP MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 HDP MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 01453 PUNE MFP SPL dates=['2026-10-19', '2026-10-26', '2026-11-02']; 01481 PUNE MFP SPL dates=['2026-10-20', '2026-10-27', '2026-11-03']; 06211 MYS DBG SPECIAL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 06211 MYS DBG SPECIAL dates=['2026-10-07', '2026-10-14', '2026-10-21', '2026-10-28', '2026-11-04', '2026-09-30']; 01441 PUNE DNR SPL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-04', '2026-11-05', '2026-09-30', '2026-11-06', '2026-11-07']; 01441 PUNE DNR SPL dates=['2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10', '2026-10-11', '2026-10-14', '2026-10-15', '2026-10-16', '2026-10-17', '2026-10-18', '2026-10-21', '2026-10-22', '2026-10-23', '2026-10-24', '2026-10-25', '2026-10-28', '2026-10-29', '2026-10-30', '2026-10-31', '2026-11-01', '2026-11-04', '2026-11-05', '2026-09-30', '2026-11-06', '2026-11-07']
+Sources OK as of 31-Oct-2026 10:58:46 IST
