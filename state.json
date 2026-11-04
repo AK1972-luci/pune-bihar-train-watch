@@ -2,20 +2,19 @@
  "started": "12-Sep-2026 22:44:37 IST",
  "erail": {
   "11033|PUNE|HJP": {
-   "sig": "2026-11-03|2031-11-05|0010000|16.15",
+   "sig": "2026-11-04|2031-11-06|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-04"
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "03-Nov-2026 07:12:19 IST"
+   "changed": "04-Nov-2026 08:08:33 IST"
   },
   "11401|PUNE|DNR": {
-   "sig": "2026-11-03|2031-11-05|1111111|21.05",
+   "sig": "2026-11-04|2031-11-06|1111111|21.05",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
-    "2026-11-03",
     "2026-11-04",
     "2026-11-05",
     "2026-11-06",
@@ -23,7 +22,7 @@
    ],
    "booking_open": false,
    "name": "PUNE SUPAUL EXP",
-   "changed": "03-Nov-2026 07:12:19 IST"
+   "changed": "04-Nov-2026 08:08:33 IST"
   },
   "01449|PUNE|DNR": {
    "sig": "2026-08-04|2050-01-03|1111111|15.40",
@@ -75,57 +74,57 @@
    "changed": "21-Sep-2026 06:19:34 IST"
   },
   "15590|HDP|PPTA": {
-   "sig": "2026-11-03|2031-11-04|0010000|10.00",
+   "sig": "2026-11-04|2031-11-05|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-04"
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "03-Nov-2026 07:12:19 IST",
+   "changed": "04-Nov-2026 08:08:33 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11431|PUNE|DNR": {
-   "sig": "2026-11-03|2031-11-05|0000010|15.25",
+   "sig": "2026-11-04|2031-11-06|0000010|15.25",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-07"
    ],
    "booking_open": false,
    "name": "DNR AMRIT BHARAT",
-   "changed": "03-Nov-2026 07:12:19 IST",
+   "changed": "04-Nov-2026 08:08:33 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "11033|PUNE|MFP": {
-   "sig": "2026-11-03|2031-11-05|0010000|16.15",
+   "sig": "2026-11-04|2031-11-06|0010000|16.15",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-04"
    ],
    "booking_open": false,
    "name": "DARBHANGA EXP",
-   "changed": "03-Nov-2026 07:12:19 IST"
+   "changed": "04-Nov-2026 08:08:33 IST"
   },
   "15590|HDP|MFP": {
-   "sig": "2026-11-03|2031-11-04|0010000|10.00",
+   "sig": "2026-11-04|2031-11-05|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-04"
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "03-Nov-2026 07:12:19 IST",
+   "changed": "04-Nov-2026 08:08:33 IST",
    "gone": "02-Oct-2026 06:29:57 IST"
   },
   "15590|HDP|DNR": {
-   "sig": "2026-11-03|2031-11-04|0010000|10.00",
+   "sig": "2026-11-04|2031-11-05|0010000|10.00",
    "first_seen": "12-Sep-2026 22:44:46 IST",
    "dates": [
     "2026-11-04"
    ],
    "booking_open": false,
    "name": "HDP MFP EXPRESS",
-   "changed": "03-Nov-2026 07:12:19 IST"
+   "changed": "04-Nov-2026 08:08:33 IST"
   },
   "05590|HDP|PPTA": {
    "sig": "2026-10-15|2026-11-28|0001000|15.00",
@@ -2647,7 +2646,8 @@
   "d364e8791ea0b153ef022bd2902b4f61": "Central Railway to start special train from Pune to Muzaffarpur - PUNE PULSE",
   "fbcfbf17644d4ccace1ef937f98fc0d5": "Western Railway Ticket Checking Drive Tightens Mumbai Festive Travel - Urban Acres",
   "3aa4e9c49ea51903bba164394c61d3a8": "यात्रियों के लिए खुशखबरी! इटारसी होकर गुजरेगी ये दो स्पेशल ट्रेन, जानें शेड्यूल - News18 Hindi",
-  "c0b860e300caa520ccbf89583f2fa07b": "Special Train Announcement: WR To Run Trains Between Bandra Terminus To Gorakhpur, Udhana And Bhagalpur; Check Details H"
+  "c0b860e300caa520ccbf89583f2fa07b": "Special Train Announcement: WR To Run Trains Between Bandra Terminus To Gorakhpur, Udhana And Bhagalpur; Check Details H",
+  "de38dfe994aedf56a82ea6186dfe95ef": "रेलवे ने 10 त्योहार स्पेशल ट्रेनों के फेरे बढ़ाए: मुंबई, पुणे से पूर्वांचल, बिहार का सफर आसान करेंगी ये गाड़ि... - Dainik "
  },
  "pib": {
   "2309571": "प्रधानमंत्री की चीनी राष्ट्रपति शी जिनपिंग के साथ द्विपक्षीय बैठक",
@@ -4926,6 +4926,6 @@
   "2332289": "एनएलएमसी ने नई दिल्ली में एचआईएल (इंडिया) लिमिटेड की 5.119 एकड़ भूमि की ई-नीलामी हेतु बोली से पहले बैठक का आयोजन किया"
  },
  "avail": {},
- "last_press_poll": 1793759507.8342054,
+ "last_press_poll": 1793760853.1424308,
  "last_heartbeat": "2026-11-03"
 }
